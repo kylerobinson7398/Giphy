@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
+#background {
+  background-repeat: no-repeat;
+  background-size: 70%;
+  max-width: 700px;
+}
+
+#cartoon-form {
+  float: right;
+}
+
+h3 {
+  color: navy;
+  text-align: center;
+}
+
+input {
+  align-content: center;
+}
+
+#cartoons-view {
+  float: left;
+}
